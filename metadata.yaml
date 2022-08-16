@@ -1,0 +1,57 @@
+_repo: Anastasia-The-autobiography-of-HIH-the-Grand-Duchess-Anastasia-Nicholaevna-of-Russia_68616
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Anastasiia Nikolaevna, Grand Duchess, daughter of Nicholas II, Emperor
+      of Russia
+    aliases:
+    - Anastasia Nicolaïevna, Grand Duchess, daughter of Nicholas II, Emperor of Russia
+    - Anastasia Nicolaievna, Grand Duchess, daughter of Nicholas II, Emperor of Russia
+    - Anastasia, Grand Duchess, daughter of Nicholas II, Emperor of Russia, 1901-1918
+    - Anastasiya Nikolayevna, Grand Duchess, daughter of Nicholas II, Emperor of Russia
+    - Anastasia Nicholaevna, Grand Duchess, daughter of Nicholas II, Emperor of Russia
+    birthdate: 1901
+    deathdate: 1918
+    gutenberg_agent_id: '54858'
+    url: http://www.gutenberg.org/2009/agents/54858
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia
+    - https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0
+creator:
+  author:
+    agent_name: Smith, Eugenia
+    aliases:
+    - Smetisko, Eugenia Drabek
+    - Smetisko, Evgenia
+    birthdate: 1899
+    deathdate: 1997
+    gutenberg_agent_id: '54864'
+    url: http://www.gutenberg.org/2009/agents/54864
+    wikipedia: https://en.wikipedia.org/wiki/Eugenia_Smith
+description: 'Grand Duchess Anastasia Nikolaevna of Russia at Wikipedia: https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia
+
+  The author claimed to be Anastasiia Nikolaevna, Grand Duchess of Russia.'
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68616'
+  lccn: '63022672'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015005131084
+pgterms:marc905: 20200210101027smetisko
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Thomas Frost, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Robert Speller & Sons,1963.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anastasiia Nikolaevna, Grand Duchess, daughter of Nicholas II, Emperor of
+  Russia, 1901-1918'
+- !lcc 'DK'
+- GITenberg
+title: 'Anastasia: The autobiography of H.I.H. the Grand Duchess Anastasia Nicholaevna
+  of Russia'
+url: http://www.gutenberg.org/ebooks/68616
