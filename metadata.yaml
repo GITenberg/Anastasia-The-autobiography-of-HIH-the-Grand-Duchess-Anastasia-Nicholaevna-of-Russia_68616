@@ -17,6 +17,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia
     - https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0
+covers:
+- cover_type: archival
+  image_path: 68616-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Eugenia
@@ -31,6 +34,8 @@ creator:
 description: 'Grand Duchess Anastasia Nikolaevna of Russia at Wikipedia: https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia
 
   The author claimed to be Anastasiia Nikolaevna, Grand Duchess of Russia.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68616#Anastasia-The-autobiography-of-HIH-the-Grand-Duchess-Anastasia-Nicholaevna-of-Russia
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68616'
